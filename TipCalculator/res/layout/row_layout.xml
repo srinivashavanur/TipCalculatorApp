@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="40dp"
+    android:background="#D3D3D3"
+    >
+ 
+    <TextView
+        android:layout_marginTop="10dp"
+        android:layout_width="45dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/seek_percent_id"
+        android:text="Custom Percent"
+        android:gravity="center"
+        android:textSize="@dimen/font_size"
+        android:textColor="#000000"
+
+        />
+ 
+    <TextView
+        android:layout_marginTop="10dp"
+        android:layout_width="45dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/custom_bill_amt_id"
+        android:text="Bill Amount"
+        android:gravity="center"
+        android:textSize="@dimen/font_size"
+    
+        android:textColor="#000000"/>
+    <TextView
+        android:layout_marginTop="10dp"
+        android:layout_width="45dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/custom_tip_id"
+        android:text="Tip"
+        android:gravity="center"
+        android:textSize="@dimen/font_size"
+        android:textColor="#000000"
+
+        />
+    <TextView
+        android:layout_marginTop="10dp"
+        android:layout_width="45dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/custom_total_bill_id"
+        android:text="Total Bill"
+        android:gravity="center"
+        android:textSize="@dimen/font_size"
+        android:textColor="#000000"
+    
+        />
+    <TextView
+        android:layout_marginTop="10dp"
+        android:layout_width="70dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/custom_split_id"
+        android:text="Split"
+        android:gravity="center"
+        android:textSize="@dimen/font_size"
+        android:textColor="#000000"
+         
+        />
+      <TextView
+        android:layout_marginTop="10dp"
+        android:layout_width="70dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/creation_id"
+        android:text="Created on"
+        android:gravity="center"
+        android:textSize="@dimen/font_size"
+        android:textColor="#000000"
+        
+        /> 
+        
+</LinearLayout>

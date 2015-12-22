@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ODU Tip Calculator</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="billTotal">Bill total</string>
+    <string name="Split">Split On</string>
+    <string name="Bill">Bill Per Person</string>
+    <string name="tip">Tip</string>
+     <string name="tipperson">Tip/Person</string>
+     <string name="TotalPerPerson">Total/Person</string>
+    <string name="total">Total</string>
+    <string name="custom">Custom</string>
+    <string name="zero">0.00</string>
+    <string name="action_settings">Settings</string>
+	<color name="titlebackgroundcolor">#3232CD</color>
+    <color name="titletextcolor">#0000FF</color>
+    
+
+</resources>
+
