@@ -6,6 +6,7 @@ This app takes a bill amount as an input and also total count of persons to spli
 Technology: Eclipse mars, SQLite
 
 Screenshots:
+
 Screenshot1
 
 ![tip1](https://cloud.githubusercontent.com/assets/11856540/14228705/54ab071e-f8eb-11e5-9f28-d12a64ab6449.JPG)
